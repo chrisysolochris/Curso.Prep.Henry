@@ -1,0 +1,4 @@
+Comando "for" : Sirve para repetir una cantidad de veces (determinada por el programador), una instrucción repetitiva.
+Operador lógico && : Evalúa dos expresiones establecidas por el programador que ambas sean verdaderas, alcanza con que una de ellas sea falsa para que el resultado del uso dictamine "false".
+Operador lógico || : Esta determina en su resultado si una de las expresiones establecidas por el programador es verdadera. Con tal solo que una de las declaraciones sea verdadera, declarará "true", para que apareciera "false" ambas expresiones deberían ser falsas.
+Operador lógico !  : Al ejecutarlo devuelve el valor opuesto al que se le pasa en la función, por ejemplo si yo coloco !false devolverá como resultado true o verdadero y asimismo al revés.  
