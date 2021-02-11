@@ -1,0 +1,1 @@
+Array: Un arreglo es una lista que puede tener cualquier tipo de elementos podrían ser palabras, letras, números, declaraciones del estilo true o false, fórmulas, etc.
